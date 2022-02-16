@@ -1,0 +1,2 @@
+# NID-Applicants-DBMS
+A database management system where NID applicants will be able to apply for their National ID. Why our website is different from the website that we already have? In our real website we cannot edit our informations what we have already provided. So here we have enabled that feature.                      Users can apply for their NIDs here by providing their informations in register form. To get into registration form the user have to login into our site. If he/she is a new user he/she has to signup in the sign up form.
